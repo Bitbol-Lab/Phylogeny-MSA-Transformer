@@ -1,0 +1,6 @@
+tqdm
+jupyter
+matplotlib
+statsmodels
+biopython
+esm==0.4.0
