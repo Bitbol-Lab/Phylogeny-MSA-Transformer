@@ -24,6 +24,7 @@ In order to run the notebooks, the following python packages are required:
 - matplotlib
 - statsmodels
 - biopython
+- swalign
 - esm==0.4.0
 
 ``prody`` and ``HMMER`` are required to run the Python script ``data/Pfam_Seed/fetch_seed_MSAs.py``, if you wish to create new

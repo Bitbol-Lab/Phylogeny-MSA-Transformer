@@ -3,4 +3,5 @@ jupyter
 matplotlib
 statsmodels
 biopython
+swalign
 esm==0.4.0
