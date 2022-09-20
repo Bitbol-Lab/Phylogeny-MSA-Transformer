@@ -1,5 +1,7 @@
 # Phylogeny-MSA-Transformer
 
+[![DOI](https://zenodo.org/badge/483996183.svg)](https://zenodo.org/badge/latestdoi/483996183)
+
 Supporting repository for ["Protein language models trained on multiple sequence alignments learn phylogenetic relationships" (Lupo, Sgarbossa, and Bitbol, 2022)](https://doi.org/10.1101/2022.03.29.486219). The MSA Transformer model used here was introduced in [(Rao el al, 2021)](https://proceedings.mlr.press/v139/rao21a.html).
 
 ## Getting started
