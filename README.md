@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/483996183.svg)](https://zenodo.org/badge/latestdoi/483996183)
 
-Supporting repository for ["Protein language models trained on multiple sequence alignments learn phylogenetic relationships" (Lupo, Sgarbossa, and Bitbol, 2022)](https://doi.org/10.1101/2022.03.29.486219). The MSA Transformer model used here was introduced in [(Rao el al, 2021)](https://proceedings.mlr.press/v139/rao21a.html).
+Supporting repository for ["Protein language models trained on multiple sequence alignments learn phylogenetic relationships" (Lupo, Sgarbossa, and Bitbol, 2022)](https://www.nature.com/articles/s41467-022-34032-y). The MSA Transformer model used here was introduced in [(Rao el al, 2021)](https://proceedings.mlr.press/v139/rao21a.html).
 
 ## Getting started
 
@@ -37,13 +37,13 @@ Pfam full MSAs instead of using the ones provided.
 Our work can be cited using the following BibTeX entry:
 
 ```bibtex
-@misc{lupo2022protein,
-      title={Protein language models trained on multiple sequence alignments learn phylogenetic relationships},
-      author={Lupo, Umberto and Sgarbossa, Damiano and Bitbol, Anne-Florence},
-      year={2022},
-      doi={10.1101/2022.03.29.486219},
-      url={https://www.biorxiv.org/content/early/2022/03/30/2022.03.29.486219},
-      eprint={https://www.biorxiv.org/content/early/2022/03/30/2022.03.29.486219.full.pdf},
-      journal={bioRxiv}
+@article{lupo2022protein,
+  title={Protein language models trained on multiple sequence alignments learn phylogenetic relationships},
+  author={Lupo, Umberto and Sgarbossa, Damiano and Bitbol, Anne-Florence},
+  year={2022},
+  volume={13},
+  number={6298},
+  journal={Nat. Commun.},
+  doi={10.1038/s41467-022-34032-y}
 }
 ```
